@@ -1,1 +1,1 @@
-task on pointers, string,am nd strings
+my readme on pointers and arrays
