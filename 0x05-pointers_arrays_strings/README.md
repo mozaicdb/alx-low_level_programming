@@ -1,1 +1,1 @@
-my readme on pointers and arrays
+my task for arrays string and pointers
